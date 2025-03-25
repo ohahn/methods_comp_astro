@@ -11,8 +11,8 @@ Not all chapters might have long code pieces that are mirrored here. The chapter
  - Chapter 1: HPC, jit compilation and parallelization with numba, mpi4py, GPU programming with JAX and MLX
  - Chapter 2: computing derivatives: sympy, finite difference approximations, autodiff
  - Chapter 3: the discrete Fourier transform, convolutions, spectral derivatives
- - Chapter 4: ordinary differential equations, methods for stiff problems, Hamiltonian systems, stochastic DEs
- - Chapter 5: Monte-Carlo sampling and simulation
+ - Chapter 4: ordinary differential equations, methods for stiff problems, Hamiltonian systems
+ - Chapter 5: Monte-Carlo sampling and simulation, stochastic DEs
  - Chapter 6: the diffusion/heat equation
  - Chapter 7: the Poisson equation and gravity solvers
  - Chapter 8: computational fluid dynamics
